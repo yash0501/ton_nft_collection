@@ -1,5 +1,5 @@
 {
-    "name": "TON NFT Collection",
+    "name": "ton_nft_collection",
     "version": "0.0.1",
     "scripts": {
         "start": "blueprint run",
